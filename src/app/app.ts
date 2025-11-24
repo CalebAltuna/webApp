@@ -1,8 +1,9 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
-
+// jfasf
 @Component({
+  standalone: true,
   selector: 'app-root',
   imports: [RouterOutlet],
   templateUrl: './app.html',
