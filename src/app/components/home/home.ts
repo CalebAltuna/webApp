@@ -13,4 +13,14 @@ import { RouterModule } from '@angular/router';
   `,
   styleUrls: ['./home.scss'],    // siempre en array
 })
-export class HomeComponent {}
+export class HomeComponent {
+
+protected header(){
+
+
+}
+
+
+
+}
+
